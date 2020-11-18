@@ -6,7 +6,7 @@ using static IndianStatesCensusAnalyser.CensusAnalyser;
 
 namespace CensusAnalyserUnitTest
 {
-    public class NUnitTest
+    public class AnalyserNUnitTest
     {
         /// <summary>
         /// Csv file paths
